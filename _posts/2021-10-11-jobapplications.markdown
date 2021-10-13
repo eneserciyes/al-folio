@@ -3,6 +3,7 @@ layout: post
 title:  my data science application materials
 date:   2021-10-11
 description: how i rewrote my cv and cover letter
+image:       /assets/img/blogimg_cv.png
 social: true 
 ---
 

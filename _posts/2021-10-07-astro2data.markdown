@@ -1,14 +1,15 @@
 ---
-layout: post
-title:  from astronomy to data science
-date:   2021-10-07
+layout:      post
+title:       from astronomy to data science
+date:        2021-10-07
 description: notes from my talk at the german astronomical society meeting
-social: true 
+image:       /assets/img/astro2datascience_titlepage.png
+social:      true 
 ---
 
 I gave a talk recently, during the 2021 meeting of the German Astronomical Society in the ["Healthy Careers in Astronomy (and Beyond)"](https://ag2021.astronomische-gesellschaft.de/view_splinter.php?session=Careers) session. I called my talk ["From the stars back down to Earth: getting a job as a data scientist"](https://ag2021.astronomische-gesellschaft.de/view_abstract.php?id=157)" and attempted to give a fifteen minute overview of the process.
 
-If you'd like the slides, [here they are](/assets/pdf/sjs_astro_to_datascience2021.pdf)! If you want similar information in blog form, read on. 
+If you'd like the slides, [here they are](/assets/pdf/sjs_astro_to_data_science2021.pdf)! If you want similar information in blog form, read on. 
 
 I found the talk quite difficult to put together for a few reasons. First off, I'm completely new to the online talk format. When many academics were moving from live to online talks at the pandemic onset, I was putting was my head down and trying to finish a few projects before leaving the field. Second, it's deeply personal. My choices around my career path are rooted in my identities and inner landscape and speaking on those is not easy. Third, it's a broad topic and I knew my audience would have a variety of perspectives and needs! Some may be entering the job market right now, others might be mentoring students knowing they may look for different jobs, and others still would be like I was - hoping I'd be an astronomy but wanting to be ready with plan B. 
 

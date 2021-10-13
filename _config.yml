@@ -6,6 +6,7 @@ first_name: sarah
 middle_name: jane
 last_name: schmidt
 email: sarahjaneschmidt@gmail.com
+title_image: /assets/img/prof_pic.jpg
 description: > # this means to ignore newlines until "url:"
   Professional site of Sarah Jane Schmidt.
 footer_text: >

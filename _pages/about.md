@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 title: <strong>enes erciyes </strong>
-description: Ex-astronomer creating data-driven solutions to problems on Earth.
+description: Curious and active person working on solutions to world's problems through autonomy
 
 profile:
   align: right

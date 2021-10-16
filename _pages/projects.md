@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: As an astronomer, I worked on projects that focused on small stars and their magnetic fields as well as projects related to inclusion in STEM fields. Each card links to more details on the project and related publications.
 nav: true
-display_categories: [astronomy, inclusion]
+display_categories: [academic, professional, misc]
 horizontal: false
 social: true
 ---

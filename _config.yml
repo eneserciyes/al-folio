@@ -1,21 +1,22 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: blank
-first_name: sarah
-middle_name: jane
-last_name: schmidt
-email: sarahjaneschmidt@gmail.com
-title_image: /assets/img/prof_pic.jpg
-description: > # this means to ignore newlines until "url:"
-  Professional site of Sarah Jane Schmidt.
+
+title: Enes M. Erciyes # the website title (if blank, full name will be used instead)
+first_name: Enes
+middle_name: M.
+last_name: Erciyes
+email: merciyes18@ku.edu.tr
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url: https://sjschmidt.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
-last_updated: True # leave blank if you don't want to display last updated
+url:  # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -27,41 +28,58 @@ footer_fixed: true
 # Dimensions
 max_width: 800px
 
+# TODO: add layout settings (single page vs. multi-page)
+
+# -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
+
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: sjschmidt # your GitHub user name
-twitter_username: sjs917 # your Twitter handle
-linkedin_username: sarah-jane-schmidt-2ba01975 # your LinkedIn user name
-orcid_id: 0000-0002-7224-7702 # your ORCID ID
-# more ids are available, check the template
+
+github_username: eneserciyes # your GitHub user name
+twitter_username: # your Twitter handle
+linkedin_username: meerciyes # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
+work_url: # work page URL
+keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
 
 contact_note: >
-  Get in touch! These days, I'm mostly on twitter.
+  You can always reach me from my email!
 
-google_analytics: UA-147426691-1 # put your google-analytics code
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
+panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: blog
-blog_description: Infrequently updated thoughts.
+
+blog_name: alans apple  # your blog must have a name for it to show up in the nav bar
+blog_description: some thoughts and scribbles
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
-
-# Optional features
-show_social_icons:  true
-enable_anchorjs:    false
-enable_katex:       true
+disqus_shortname: merciyes # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
+
 collections:
   news:
     defaults:
@@ -106,19 +124,12 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll/scholar
-  - jekyll-diagrams
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-paginate-v2
-  - jekyll-sitemap
-  - jekyll-target-blank
+  - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
-
-# Extras
-github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -126,19 +137,15 @@ github: [metadata]
 
 scholar:
 
-  last_name: Schmidt
-  first_name: [Sarah, J.]
+  last_name: Einstein
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
 
-  sort_by: year
-  order: descending
-
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
@@ -149,23 +156,17 @@ scholar:
 
   query: "@*"
 
-
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true   # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
-enable_mansory:             true   # enables automatic project cards arrangement
-enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
-                                   # for each section titles on pages and posts
-enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
-                                   # navbar on the about page
-enable_project_categories:  true  # enables categorization of projects into
-                                   # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_google_analytics:    false
+enable_panelbear_analytics: false
+enable_mansory:             true
+enable_math:                true
+enable_tooltips:            false
+enable_darkmode:            true
+show_social_icons:          false
 
 # -----------------------------------------------------------------------------
 # Library versions
@@ -186,7 +187,7 @@ jquery:
   version: "3.5.1"
   integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
 mathjax:
-  version: "3.2.0"
+  version: "3.1.2"
 mansory:
   version: "4.2.2"
   integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
@@ -198,6 +199,3 @@ mdb:
 popper:
   version: "2.4.4"
   integrity: "sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A=="
-medium_zoom:
-  version: "1.0.6"
-  integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="

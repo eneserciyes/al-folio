@@ -6,26 +6,25 @@ nav: true
 description: The story of my professional life.
 social: true
 ---
-<a href="/assets/pdf/sjs_cv_datascience_2021.pdf">Data Science</a> (pdf updated May 2021)   
-<a href="/assets/pdf/sjs_cv_academic_2019.pdf">Academic</a> (pdf updated Oct 2019) 
+<a href="/assets/pdf/sjs_cv_datascience_2021.pdf">Resume</a> (pdf updated Oct 2021)   
 
-### Employment
-[everphone](https://www.everphone.com/en/)  
-Data Scientist (2021-present)
+### Experience
+[Koç University Autonomous Vision Group](https://mysite.ku.edu.tr/fguney/)  
+Undergraduate Teaching Assistant
 
-[Leibniz Institute for Astrophysics - Potsdam](https://www.aip.de)  
-Schwarzschild Prize Postdoctoral Fellow (2015-2020)  
+[SPARK Autonomous Car - KU AIRS](https://airs.club/spark/)  
+Co-Founder & Team Captain  
 
-[The Ohio State University](https://astronomy.osu.edu/)  
-Columbus Prize Postdoctoral Fellow (2012-2015)  
+[Barcelona Supercomputing Centre / PRACE](https://summerofhpc.prace-ri.eu/)  
+Summer of HPC Intern
+
+[Amadeus IT Services](https://amadeus.com/en)  
+Software Engineer Intern
 
 ### Education
-[University of Washington](http://www.astro.washington.edu/)  
-PhD in Astronomy (2012)  
-MS in Astronomy (2008)  
- 
-[Barnard College](https://physics.barnard.edu/)  
-BA in Physics and Astronomy (2006)
+[Koç University](https://www.ku.edu.tr/)  
+B.Sc. in Computer Science  
+DM in Electrical & Electronics Engineering
 
 
 

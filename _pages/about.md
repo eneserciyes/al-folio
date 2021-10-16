@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-title: <strong>sarah jane schmidt </strong>
+title: <strong>enes erciyes </strong>
 description: Ex-astronomer creating data-driven solutions to problems on Earth.
+
 profile:
   align: right
-  image: prof_pic.jpg
-  address: 
+  image: profile_photo.jpg
+  address: >
+    <p>merciyes18_at_ku.edu.tr</p>
 
-news: false # includes a list of news items
-social: true # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-I spent 15 years in academia researching the smallest stars and why their magnetic fields are so strong. I extracted, analyzed, and visualized multi-dimensional and time-series data to answer my research questions, then communicated my results in seminars and scientific publications. I also mentored a handful of students through their first large, self-led projects and loved helping these brilliant students grow into competent, independent researchers.
+Hi, I am Enes! I am a Computer Science senior with a DM in Electrical & Electronics Engineering in [Koç University](https://cs.ku.edu.tr/), Istanbul. 
 
-Alongside my research, I also worked on projects related to diversity and inclusion in Astronomy. Often my goal was to do the work of bringing the basic ideas of equity and social justice within our field to astronomers who had not yet encountered these concepts. As my time in astronomy grew to a close, I moved on to feminist activism in Berlin rather than focusing on my field.
+I love creating projects and being involved in lots of stuff!
 
-Currently, I'm working as a data scientist at a startup here in Berlin. My move from science to tech has been a lot of work, but it's also exciting to learn new skills and processes. Like me, this website is in a transition, including some academic-focused material but slowly shifting to focus on tech. 
+I was the co-founder and president of KU AIRS for two years. You can check out [here](https://airs.club/) and see what we have done. Our biggest project was __SPARK Autonomous Car Team__. We joined [Teknofest Robotaksi Contest](https://teknofest.org/en/yarisma-detaylar-6.html), the only self-driving car contest in Turkey. We have won [first place](https://www.linkedin.com/posts/meerciyes_keepmaking-autonomouscars-ai-activity-6660190866252148736-kn_O) in the preliminary design & simulation phase in last year’s competition. This year, we built a full-scale autonomous car that is able to follow lanes, plan behaviours according to traffic signs and lights, park and complete the race track. 
 
-I also like ice cream.
+I was also a [GLLP](https://glls.ku.edu.tr/) fellow and a [University Innovation Fellow](https://universityinnovation.org/wiki/Main_Page) - a fellowship organized by Stanford d.school - in my university. Here, me and my friends create projects to solve the most common problems in student life. I mostly contributed to the KULendar project, a comprehensive calendar portal for all kinds of events in our school. 
+
+ I am currently working as an Undergraduate Research Assistant at [Autonomous Vision Group](https://mysite.ku.edu.tr/fguney/), working on RL in end-to-end autonomous driving. 
 
 
 

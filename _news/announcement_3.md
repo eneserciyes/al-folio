@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-10-07
+date: 2020-12-18
 inline: true
 ---
 
-Still under construction... writing content is hard. 
+Starting a great project on sketch recognition for PowerPoint at IUI Lab, wait for future updates!

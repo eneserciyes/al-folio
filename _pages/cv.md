@@ -6,7 +6,7 @@ nav: true
 description: The story of my professional life.
 social: true
 ---
-<a href="/assets/pdf/sjs_cv_datascience_2021.pdf">Resume</a> (pdf updated Oct 2021)   
+<a href="/assets/pdf/enes_resume.pdf">Resume</a> (pdf updated Oct 2021)   
 
 ### Experience
 [Koç University Autonomous Vision Group](https://mysite.ku.edu.tr/fguney/)  

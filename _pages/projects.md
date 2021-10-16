@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: As an astronomer, I worked on projects that focused on small stars and their magnetic fields as well as projects related to inclusion in STEM fields. Each card links to more details on the project and related publications.
+description: I have worked on lots of projects during the past couple of years. My main focus is robotics and autonomous driving. Each card links to more details on the projects.
 nav: true
 display_categories: [academic, professional, misc]
 horizontal: false

@@ -2,7 +2,7 @@
 layout: page
 title: AI Assisted Powerpoint Designer
 description: Sketch-recognition solutions to assist creating presentations
-img: /assets/img/rzww_web.jpg
+img: /assets/img/powerpoint.png
 importance: 4
 category: academic
 ---

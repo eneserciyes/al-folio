@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: I have worked on lots of projects during the past couple of years. My main focus is robotics and autonomous driving. Each card links to more details on the projects. 
+description: These are the research and engineering projects that I have been included so far.
 nav: true
-nav_order: 2
-display_categories: [academic, professional, misc]
+nav_order: 3
+display_categories: [work]
 horizontal: false
 ---
 

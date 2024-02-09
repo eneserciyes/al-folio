@@ -22,8 +22,8 @@ I am currently a Graduate Research Assistant at [CILVR](https://wp.nyu.edu/cilvr
 
 I am pursuing my Master's degree at New York University, Computer Science at Courant Institute of Mathematical Sciences. I was awarded with a Fulbright scholarship in 2023.
 
-My current research mostly focus on *video prediction* and *joint-embedding predictive architectures (JEPA)*. Prior to this, I worked on autonomous driving.
+My current research mostly focus on *video prediction* and *joint-embedding predictive architectures* (JEPA). Prior to this, I worked on autonomous driving.
 
 On top of my research, I worked as a full-time Generative AI Research Engineer at [Codeway Studios]() for about a year, had an internship in [EPFL-VITA Lab]() and [Wayve](). 
 
-During my undergraduate studies, I founded [Koc University AI and Robotics Society] (https://www.instagram.com/ku.airs/?hl=en) and [SPARK Autonomous Vehicle Team](). With SPARK, I led building a two-seater self-driving car from scratch for a national self-driving car competition, [Teknofest Robotaxi]().
+During my undergraduate studies, I founded [Koc University AI and Robotics Society](https://www.instagram.com/ku.airs/?hl=en) and [SPARK Autonomous Vehicle Team](). With SPARK, I led building a two-seater self-driving car from scratch for a national self-driving car competition, [Teknofest Robotaxi]().
